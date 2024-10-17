@@ -1,5 +1,3 @@
-# Starter Code
-
 ## Drawing App using HTML, CSS and JavaScript
 
 This is a simple drawing app created using HTML, CSS and JavaScript. It allows you to draw on the screen using your mouse.
@@ -27,4 +25,4 @@ This is a simple drawing app created using HTML, CSS and JavaScript. It allows y
 - Working with the HTML canvas element
 - Saving the drawing as an image
 
-### Built with &hearts; by [RICR](https://ricr.in)
+
